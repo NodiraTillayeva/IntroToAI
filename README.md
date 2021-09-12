@@ -15,3 +15,6 @@ Algoritms acquired:
 ## Lecture#3 - Optimization
 Lecture notes:
 https://cs50.harvard.edu/ai/2020/notes/3/
+## Lecture#4 - Learning
+## Lecture#5 - Neural Networks
+## Lecture#6 - Language

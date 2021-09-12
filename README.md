@@ -5,10 +5,10 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 ## Lecture#0 - Search
 Algoritms acquired:
--Depth-First Search
--Breadth-First Search
--Greedy Best-First Search
--A* Algorithm
+* Depth-First Search
+* Breadth-First Search
+* Greedy Best-First Search
+* A* Algorithm
 Lecture notes:
 https://cs50.harvard.edu/ai/2020/notes/0/
 ## Lecture#1 - Knowledge

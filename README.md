@@ -9,9 +9,14 @@ Algoritms acquired:
 -Breadth-First Search
 -Greedy Best-First Search
 -A* Algorithm
-
+Lecture notes:
+https://cs50.harvard.edu/ai/2020/notes/0/
 ## Lecture#1 - Knowledge
+Lecture notes:
+https://cs50.harvard.edu/ai/2020/notes/1/
 ## Lecture#2 - Uncertanty
+Lecture notes:
+https://cs50.harvard.edu/ai/2020/notes/2/
 ## Lecture#3 - Optimization
 Lecture notes:
 https://cs50.harvard.edu/ai/2020/notes/3/

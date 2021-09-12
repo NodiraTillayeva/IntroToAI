@@ -10,6 +10,7 @@ Algoritms acquired:
 -A* Algorithm
 
 ## Lecture#1 - Knowledge
-## Lecture#2 - Optimization
+## Lecture#2 - Uncertanty
 ## Lecture#3 - Optimization
+Lecture notes:
 https://cs50.harvard.edu/ai/2020/notes/3/
